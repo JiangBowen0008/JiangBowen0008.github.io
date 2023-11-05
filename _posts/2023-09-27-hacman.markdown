@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation"
+date:   2023-09-27 23:00:00 +00:00
+image: /images/hacman.gif
+categories: research
+author: "Bowen Jiang"
+authors: "Wenxuan Zhou, <strong>Bowen Jiang</strong>, Fan Yang, Chris Paxton*, David Held*"
+venue: "Conference of Robot Learning 2023 (Oral)"
+arxiv: https://arxiv.org/abs/2305.03942
+code: https://github.com/HACMan-2023/HACMan
+website: https://hacman-2023.github.io/
+---
+We propose a spatially-grounded and temporally-abstracted action representation with a hybrid discrete-continuous reinforcement learning framework.
+Keywords: RL with 3D Vision, Action Representation, Contact-rich manipulation
