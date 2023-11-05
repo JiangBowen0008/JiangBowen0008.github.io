@@ -2,7 +2,7 @@
 layout: post
 title:  "POIS: Policy-Oriented Instance Segmentation for Ambidextrous Robot Picking"
 date:   2021-05-30 23:00:00 +00:00
-image: /images/hacman.gif
+image: /images/pois.jpg
 categories: research
 author: "Bowen Jiang"
 authors: "Guangyun Xu*, Yi Tao*, <strong>Bowen Jiang*</strong>, Peng Wang, Jun Zhong"
