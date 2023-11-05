@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "POIS: Policy-Oriented Instance Segmentation for Ambidextrous Robot Picking"
+date:   2021-05-30 23:00:00 +00:00
+image: /images/hacman.gif
+categories: research
+author: "Bowen Jiang"
+authors: "Guangyun Xu*, Yi Tao*, <strong>Bowen Jiang*</strong>, Peng Wang, Jun Zhong"
+venue: "IEEE International Conference on Robotics and Automation (ICRA) 2021"
+arxiv:
+code: https://github.com/JiangBowen0008/ImageGeneration-BlenderProc
+website: https://sites.google.com/view/policy-instance-segmentation/home
+---
+We propose policy-oriented Instance Segmentation for Ambidextrous Robot Picking, which predicts a pair of target masks allowing ambidextrous robots to pick objects in cluttered scenes without mutual interference.
