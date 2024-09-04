@@ -11,5 +11,4 @@ arxiv: https://arxiv.org/abs/2407.08585
 code: https://github.com/JiangBowen0008/HACManPP
 website: https://sgmp-rss2024.github.io/
 ---
-We present HACMan++, a reinforcement learning framework using a novel action space of spatially-grounded parameterized motion primitives for manipulation tasks
-Keywords: RL with 3D Vision, Action Representation, Contact-rich manipulation
+We present HACMan++, a reinforcement learning framework using a novel action space of spatially-grounded parameterized motion primitives for manipulation tasks.
