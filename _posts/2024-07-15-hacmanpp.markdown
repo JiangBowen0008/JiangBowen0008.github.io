@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation"
+date:   2024-07-15 23:00:00 +00:00
+image: /images/hacmanpp.gif
+categories: research
+author: "Bowen Jiang"
+authors: "<strong>Bowen Jiang*</strong>, Yilin Wu*, Wenxuan Zhou, Chris Paxton, David Held"
+venue: "RSS 2024"
+arxiv: https://arxiv.org/abs/2407.08585
+code: https://github.com/JiangBowen0008/HACManPP
+website: https://sgmp-rss2024.github.io/
+---
+We present HACMan++, a reinforcement learning framework using a novel action space of spatially-grounded parameterized motion primitives for manipulation tasks
+Keywords: RL with 3D Vision, Action Representation, Contact-rich manipulation
