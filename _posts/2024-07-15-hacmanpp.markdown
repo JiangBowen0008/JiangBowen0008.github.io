@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation"
+title:  "HACMan++: Spatially-Grounded Motion Primitives for Manipulation"
 date:   2024-07-15 23:00:00 +00:00
 image: /images/hacmanpp.gif
 categories: research
