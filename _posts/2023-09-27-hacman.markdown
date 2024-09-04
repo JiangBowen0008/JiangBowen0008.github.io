@@ -12,4 +12,3 @@ code: https://github.com/HACMan-2023/HACMan
 website: https://hacman-2023.github.io/
 ---
 We propose a spatially-grounded and temporally-abstracted action representation with a hybrid discrete-continuous reinforcement learning framework.
-Keywords: RL with 3D Vision, Action Representation, Contact-rich manipulation
