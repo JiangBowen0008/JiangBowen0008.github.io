@@ -1,0 +1,13 @@
+---
+layout: post
+title: "CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations"
+date: 2026-01-01 12:00:00 +00:00
+image: /images/codex.gif
+categories: research
+author: "Bowen Jiang"
+authors: "<strong>Bowen Jiang</strong>, William Painter Reger, Roberto Martín-Martín"
+venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+arxiv: https://arxiv.org/abs/2606.31909
+website: https://robin-lab.cs.utexas.edu/CoDex/
+---
+CoDex learns dexterous functional object manipulation without human demonstrations by translating vision-language-model guidance into semantic constraints for optimization and reinforcement learning.

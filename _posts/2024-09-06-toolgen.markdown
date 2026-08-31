@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Learning Generalizable Tool-use Skills through Trajectory Generation"
+date: 2024-09-06 12:00:00 +00:00
+image: /images/toolgen.gif
+categories: research
+author: "Bowen Jiang"
+authors: "Carl Qi*, Yilin Wu*, Lifan Yu, Haoyue Liu, <strong>Bowen Jiang</strong>, Xingyu Lin**, David Held**"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+arxiv: https://arxiv.org/abs/2310.00156
+code: https://github.com/carl-qi/ToolGen
+website: https://sites.google.com/view/toolgen
+---
+ToolGen learns generalizable tool-use skills for deformable object manipulation by generating tool point-cloud trajectories and aligning novel tools to them for execution.
